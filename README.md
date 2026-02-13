@@ -13,3 +13,4 @@ Kelas : A
 1. *Clone* repository ini ke perangkat lokal kamu.
 2. Buka folder proyek.
 3. Klik kanan pada file `index.html` dan pilih **Open with Browser** (Chrome/Edge/Firefox).
+4. Atau dapat diakses langsung secara online melalui tautan berikut : https://muthia146.github.io/portofolio/
