@@ -7,7 +7,7 @@ Kelas : A
 ## Konten Repository
 * `index.html` : Struktur utama halaman web.
 * `style.css` : Styling dan layouting halaman.
-* `script.js` : Logika dan interaktivitas halaman (jika ada).
+* `script.js` : Logika dan interaktivitas halaman.
 
 ## Cara Menjalankan
 1. *Clone* repository ini ke perangkat lokal kamu.
