@@ -99,11 +99,11 @@ h1, h2, h3, .navbar, .btn, .profile-tag {
 }
 
 .hero h1 {
-    font-size: 2.5rem; /* Ukuran telah diperkecil */
+    font-size: 2.5rem; 
     color: #2d3436;
     margin-bottom: 10px;
     font-weight: 700;
-    letter-spacing: -0.5px; /* Opsional: dikurangi agar jarak antar huruf tidak terlalu rapat */
+    letter-spacing: -0.5px; 
 }
 
 .name-accent {
@@ -199,7 +199,7 @@ h1, h2, h3, .navbar, .btn, .profile-tag {
 
 .item-card {
     background: white;
-    padding: 25px 15px; /* Padding atas-bawah 25px, kiri-kanan 15px */
+    padding: 25px 15px; 
     border-radius: 25px;
     transition: var(--transition);
     text-align: center;
@@ -223,7 +223,7 @@ h1, h2, h3, .navbar, .btn, .profile-tag {
 .item-card:hover { transform: translateY(-8px); box-shadow: 0 20px 40px rgba(0,0,0,0.03); }
 
 .icon-box {
-    width: 60px;  /* Ukuran box icon diperkecil dari 80px */
+    width: 60px; 
     height: 60px;
     border-radius: 15px;
     margin-bottom: 15px;
@@ -268,7 +268,7 @@ h1, h2, h3, .navbar, .btn, .profile-tag {
     align-items: center;
     justify-content: center;
     transition: all 0.4s ease;
-    flex-shrink: 0; /* Agar ikon tidak gepeng */
+    flex-shrink: 0;
 }
 
 .contact-icon i {
@@ -329,7 +329,7 @@ h1, h2, h3, .navbar, .btn, .profile-tag {
 
 .contact-box:hover .contact-icon {
     background: rgba(255, 255, 255, 0.2);
-    transform: rotate(10deg); /* Sedikit rotasi ikon biar lucu */
+    transform: rotate(10deg); 
 }
 
 footer {
@@ -345,7 +345,7 @@ footer {
     }
 
     .hero {
-        padding-top: 100px; /* Ditambah agar profil turun di bawah navbar */
+        padding-top: 100px; 
         min-height: auto;
     }
 
@@ -358,7 +358,7 @@ footer {
         gap: 2px;
         padding: 5px 10px;
         justify-content: center;
-        flex-wrap: wrap; /* Agar menu yang tidak muat otomatis turun ke bawah */
+        flex-wrap: wrap; 
     }
 
     .nav-link {
@@ -370,7 +370,7 @@ footer {
 
 /* --- PROYEK STYLES ENHANCEMENT --- */
 .project-card {
-    padding: 0 !important; /* Reset padding agar gambar penuh ke tepi */
+    padding: 0 !important; 
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -435,6 +435,7 @@ footer {
 }
 
 .bootcamp-card {
-    border: 2px dashed #ffdeeb; /* Pembeda visual untuk pengalaman */
+    border: 2px dashed #ffdeeb; 
 }
+
 
